@@ -59,7 +59,7 @@ header{
     color: white;
     border: none;
     border-radius: 5px;
-    cursor: pointer;
+    
     margin-top: -5px;
 }
 .banner-section{
@@ -159,10 +159,6 @@ header{
     border: none;
     height: 1px;
     background: #ddd;
-}
-.lr-box:hover{
-	opacity: 0.5;
-	cursor: pointer;
 }
 
 
